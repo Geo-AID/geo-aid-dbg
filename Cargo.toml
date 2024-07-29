@@ -3,6 +3,8 @@ name = "geo-aid-dbg"
 description = "A debugger for Geo-AID. Used in development for peeking inside Geo-AID in order to see how the generation process goes."
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/Geo-AID/geo-aid-dbg"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
